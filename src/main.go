@@ -1,11 +1,12 @@
 package main
+
 import (
-    "fmt"
-    "./funcs"
+	"fmt"
+	"./greeting_funcs"
 )
- 
+
 func main() {
-  fmt.Println("Привет!")
-  var x int = funcs.Greeting()
-  fmt.Println(x)
+   greeting_funcs.Hellofunc()
+   x := greeting_funcs.Hello_usrans()
+   fmt.Print(x)
 }
