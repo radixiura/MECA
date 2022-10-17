@@ -142,6 +142,10 @@ func Fmenu() {
 				}
 }
 
+func Fmenu_escape() {
+	fmt.Println("Завершение работы программы")
+	os.Exit(3)
+}
 
 
 func Fmenu1() {
@@ -170,6 +174,25 @@ func Fmenu1() {
 }
 
 
+func Fmenu1_history() {
+	fmt.Println("")
+	}
+
+
+func Fmenu1_psychology() {
+	fmt.Println("")
+}
+
+
+func Fmenu1_philosophy() {
+	fmt.Println("")
+}
+
+
+func Fmenu1_fizmat() {
+	fmt.Println("")
+}
+
 
 func Fmenu2() {
 	fmt.Println("Choose the theme you want to write about: ")
@@ -189,17 +212,39 @@ func Fmenu2() {
 			 case 3:
  					Fmenu2_philosophy()
 			 case 4:
-					Fmenu_fizmat()
+					Fmenu2_fizmat()
 	     default:
 	        fmt.Println("Oshibka. Poprobuyte zanovo!")
 	        Fmenu()
 				}
 }
 
+
+func Fmenu2_history() {
+	fmt.Println("")
+	}
+
+
+func Fmenu2_psychology() {
+	fmt.Println("")
+}
+
+
+func Fmenu2_philosophy() {
+	fmt.Println("")
+}
+
+
+func Fmenu2_fizmat() {
+	fmt.Println("")
+}
+
+
+
 func Fmenu3() {
 	fmt.Println("random note")
 }
 
-func Fmenu4() {
+func Fmenu_settings() {
 	fmt.Println("Settings")
 }
