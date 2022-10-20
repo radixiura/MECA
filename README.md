@@ -1,7 +1,6 @@
 
 # Tremolo
-![](https://i.imgur.com/Mq1I50c.jpg)
-![image](https://ibb.co/DQsRZnq.png)
+![image](https://ibb.co/DQsRZnq.jpeg)
 Welcome to my memory castle! It is a place where you can read other people memories or leave your own.
 
 
