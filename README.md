@@ -1,5 +1,5 @@
 
-# Meca GO
+# Meca Go
 
 ![meca_logo](https://user-images.githubusercontent.com/69742759/197078765-cdb91170-23ae-42ba-b3d1-b148abbd5d33.jpg)
 
