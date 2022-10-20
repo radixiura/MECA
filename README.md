@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/glErIFF.png)
+![Banner](https://imgur.com/a/8F2VCmp)
 # Meca Go
 
 Welcome to my memory castle! It is a place where you can read other people memories or leave your own.
