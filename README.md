@@ -1,6 +1,6 @@
 
-# Tremolo
-![image](https://ibb.co/DQsRZnq.jpeg)
+# Meca GO
+![image](https://ibb.co/DQsRZnq.jpg)
 Welcome to my memory castle! It is a place where you can read other people memories or leave your own.
 
 
