@@ -1,6 +1,10 @@
 
 # Meca GO
-![image](https://ibb.co/DQsRZnq.jpg)
+
+![meca_logo](https://user-images.githubusercontent.com/69742759/197078765-cdb91170-23ae-42ba-b3d1-b148abbd5d33.jpg)
+
+
+
 Welcome to my memory castle! It is a place where you can read other people memories or leave your own.
 
 
