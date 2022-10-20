@@ -1,7 +1,7 @@
-![Banner](https://ibb.co/DQsRZnq.png)
+
 # Tremolo
 ![](https://i.imgur.com/Mq1I50c.jpg)
-
+![image](https://ibb.co/DQsRZnq.png)
 Welcome to my memory castle! It is a place where you can read other people memories or leave your own.
 
 
