@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/DQsRZnq)
+![Banner](https://ibb.co/DQsRZnq.jpg)
 # Tremolo
 ![](https://i.imgur.com/Mq1I50c.jpg)
 
