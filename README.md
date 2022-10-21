@@ -1,5 +1,7 @@
+<h3 align="center">
 <a href="#"><img src="https://i.ibb.co/19t6QjB/logoza-ru-1.png" alt="Memory Castle Project" width="400"></a>
-
+</h3>
+  
 <p align="center">
   <a href="https://github.com/cossacklabs/acra/releases"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
   <a href='https://coveralls.io/github/cossacklabs/themis'><img src='https://coveralls.io/repos/github/cossacklabs/themis/badge.svg?branch=master' alt='Coverage Status' /></a>
