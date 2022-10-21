@@ -1,8 +1,5 @@
 <h3 align="center">
-  <a href="#"><img src="https://i.ibb.co/cbDzFRL/castle.jpg" alt="Memory Castle Project" width="400"></a>
-  <br>
-  Place your dreams in a safe zone!
-  <br>
+  <a href="#"><img src="https://i.ibb.co/kDwY0d6/logoza-ru.png" alt="Memory Castle Project" width="400"></a>
 </h3>
 
 -----
