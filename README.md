@@ -1,8 +1,4 @@
-<h3 align="center">
-  <a href="#"><img src="https://i.ibb.co/19t6QjB/logoza-ru-1.png" alt="Memory Castle Project" width="400"></a>
-</h3>
-
------
+<a href="#"><img src="https://i.ibb.co/19t6QjB/logoza-ru-1.png" alt="Memory Castle Project" width="400"></a>
 
 <p align="center">
   <a href="https://github.com/cossacklabs/acra/releases"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
