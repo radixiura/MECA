@@ -86,14 +86,9 @@ You can also check out the speaker slides for the following talks by Cossack Lab
 
 If you’d like to contribute your code or provide any other kind of input to Acra, you’re very welcome. Your starting point for contributing [is here](https://docs.cossacklabs.com/acra/contributing-and-community/).
 
-## Acra feedback
-
-If you are an Meca user, please leave a [short feedback](https://bit.ly/acra-feedback).
-
 ## License
 
 MECA is totally free!
 
 ## Contacts
-
-If you want to ask a technical question, feel free to raise an [Issue](https://github.com/radixiura/Meca-Go/issues) or write to [radix_iuraa@protonmail.com](mailto:radix_iura@protonmail.com).
+If you want to ask a technical question, feel free to raise an [Issue](https://github.com/radixiura/Meca-Go/issues) or write to [radix_iura@protonmail.com](mailto:radix_iura@protonmail.com).
