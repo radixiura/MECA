@@ -1,8 +1,7 @@
 <h3 align="center">
   <a href="#"><img src="https://i.ibb.co/cbDzFRL/castle.jpg" alt="Memory Castle Project" width="400"></a>
-  
   <br>
-  Memory Castle. <b>Place your dreams in a safe zone!</b>
+  Place your dreams in a safe zone!
   <br>
 </h3>
 
@@ -17,10 +16,8 @@
 
 <br>
 
-
 | [Meca Examples](#) | [Documentation](#) | [Installation](#) | [Feedback](#) |
 | ---- | ---- | ---- | ---- |
-
 
 ## What is MECA Project?
 Meca - lallalala.
@@ -38,9 +35,7 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) for da
 </tr><tr><td>You like to be more intelligent</td>
 </tr></tbody></table>
 
-
 ## How does MECA work?
-
 Acra consists of several services and utilities. Acra services allow you to construct infinitely sophisticated data flows that are perfectly suited to your exact infrastructure. Depending on your architecture and use case, you might need to deploy only basic services or all of them.
 
 * **Security enforcement components**: services where "encryption happens". One of them is required: AcraServer, AcraTranslator, AnyProxy, or client-side SDKs.
@@ -50,9 +45,7 @@ Acra consists of several services and utilities. Acra services allow you to cons
 
 Refer to [Acra-in-depth / Architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) to learn more about Acra components. Refer to [Acra-in-depth / Data flow](https://docs.cossacklabs.com/acra/acra-in-depth/data-flow/) to see more typical Acra-based dataflows and deployments.
 
-
 ## Installation and launch
-
 See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to learn how to [install Acra](https://docs.cossacklabs.com/acra/getting-started/installing/) or to [try Acra without coding](https://docs.cossacklabs.com/acra/getting-started/trying/).
 
 Requirements: Linux or macOS with installed Docker.
@@ -61,7 +54,6 @@ Requirements: Linux or macOS with installed Docker.
 |---|
 
 ## Documentation and tutorials
-
 The most recent versions of the documentation, tutorials, and demos for Acra are available on the official [Cossack Labs Documentation Server](https://docs.cossacklabs.com/acra/).
 
 To gain an initial understanding of Acra, you might want to:
@@ -77,17 +69,13 @@ You can also check out the speaker slides for the following talks by Cossack Lab
 - ["Building SQL firewall(AcraCensor): insights from developers"](https://speakerdeck.com/storojs72/building-sql-firewall-insights-from-developers) by [Artem Storozhuk](https://github.com/storojs72).
 
 ## Example projects
-
 | ⚙️ [Run Acra Example Projects](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
 |---|
 
-
 ## Contributing to us
-
-If you’d like to contribute your code or provide any other kind of input to Acra, you’re very welcome. Your starting point for contributing [is here](https://docs.cossacklabs.com/acra/contributing-and-community/).
+If you’d like to contribute your code or provide any other kind of input to Acra, you’re very welcome. Your starting point for contributing [is here](#).
 
 ## License
-
 MECA is totally free!
 
 ## Contacts
