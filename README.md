@@ -8,10 +8,10 @@ A simple application for those who never FORGET
 -----
   
 <p align="center">
-  <a href="https://github.com/cossacklabs/acra/releases"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
-  <a href='https://coveralls.io/github/cossacklabs/themis'><img src='https://coveralls.io/repos/github/cossacklabs/themis/badge.svg?branch=master' alt='Coverage Status' /></a>
-  <a href='https://goreportcard.com/report/github.com/cossacklabs/acra'><img class="badge" tag="github.com/cossacklabs/acra" src="https://goreportcard.com/badge/github.com/cossacklabs/acra"></a>
-  <a href='https://godoc.org/github.com/cossacklabs/acra'><img src='https://godoc.org/github.com/cossacklabs/acra?status.svg'  alt='godoc'/></a>
+  <a href="#"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
+  <a href="#"><img src='https://coveralls.io/repos/github/cossacklabs/themis/badge.svg?branch=master' alt='Coverage Status' /></a>
+  <a href="#"><img class="badge" tag="github.com/cossacklabs/acra" src="https://goreportcard.com/badge/github.com/cossacklabs/acra"></a>
+  <a href="#"><img src='https://godoc.org/github.com/cossacklabs/acra?status.svg'  alt='godoc'/></a>
 </p>
 
 <br>
