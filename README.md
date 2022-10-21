@@ -10,26 +10,22 @@
 
 <p align="center">
   <a href="https://github.com/cossacklabs/acra/releases"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
-  <a href="https://circleci.com/gh/cossacklabs/acra"><img src="https://circleci.com/gh/cossacklabs/acra/tree/master.svg?style=shield" alt="Circle CI"></a>
   <a href='https://coveralls.io/github/cossacklabs/themis'><img src='https://coveralls.io/repos/github/cossacklabs/themis/badge.svg?branch=master' alt='Coverage Status' /></a>
   <a href='https://goreportcard.com/report/github.com/cossacklabs/acra'><img class="badge" tag="github.com/cossacklabs/acra" src="https://goreportcard.com/badge/github.com/cossacklabs/acra"></a>
   <a href='https://godoc.org/github.com/cossacklabs/acra'><img src='https://godoc.org/github.com/cossacklabs/acra?status.svg'  alt='godoc'/></a>
-  <br/><a href="https://github.com/cossacklabs/acra/releases/latest"><img src="https://img.shields.io/badge/Server%20Platforms-Ubuntu%20%7C%20Debian%20%7C%20CentOS-green.svg" alt="Server platforms"></a>
- 
 </p>
+
 <br>
 
 
-| [Acra Engineering Examples](https://github.com/cossacklabs/acra-engineering-demo) | [Documentation and tutorials](https://docs.cossacklabs.com/acra/) | [Installation](https://github.com/cossacklabs/acra#installation-and-launch) | [Acra feedback](#acra-feedback) |
+| [Meca Examples](#) | [Documentation](#) | [Installation](#) | [Feedback](#) |
 | ---- | ---- | ---- | ---- |
 
 
 ## What is MECA Project?
 Meca - lallalala.
 
-Meca provides u to memory
-
-![meca_logo](https://user-images.githubusercontent.com/69742759/197078765-cdb91170-23ae-42ba-b3d1-b148abbd5d33.jpg)
+Acra provides [application-level encryption](https://www.infoq.com/articles/ale-software-architects/) for data fields, multi-layered access control, database leakage prevention, and intrusion detection capabilities in one suite. Acra was specifically designed for distributed apps (web, server-side and mobile) that store data in one or many databases / datastores.
 
 <table><thead><tr><th>Perfect Acra-compatible applications</th>
 <th>Typical industries</th></tr></thead>
@@ -222,5 +218,3 @@ If you want to ask a technical question, feel free to raise an [Issue](https://g
 To talk to the business wing of Cossack Labs Limited, drop us an email to [info@cossacklabs.com](mailto:info@cossacklabs.com).
    
 [![Blog](https://img.shields.io/badge/blog-cossacklabs.com-7a7c98.svg)](https://cossacklabs.com/) [![Twitter CossackLabs](https://img.shields.io/badge/twitter-cossacklabs-fbb03b.svg)](https://twitter.com/cossacklabs) [![DEV CossackLabs](https://img.shields.io/badge/devto-%40cossacklabs-black.svg)](https://dev.to/cossacklabs/) [![Medium CossackLabs](https://img.shields.io/badge/medium-%40cossacklabs-orange.svg)](https://medium.com/@cossacklabs/)
-
-Leave a star in GitHub, give a clap in Medium and share if you found this helpful.
