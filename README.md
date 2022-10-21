@@ -25,19 +25,17 @@
 ## What is MECA Project?
 Meca - lallalala.
 
-Acra provides [application-level encryption](https://www.infoq.com/articles/ale-software-architects/) for data fields, multi-layered access control, database leakage prevention, and intrusion detection capabilities in one suite. Acra was specifically designed for distributed apps (web, server-side and mobile) that store data in one or many databases / datastores.
+Meca includes [](https://www.infoq.com/articles/ale-software-architects/) for data fields, multi-layered access control, database leakage prevention, and intrusion detection capabilities in one suite. Acra was specifically designed for distributed apps (web, server-side and mobile) that store data in one or many databases / datastores.
 
-<table><thead><tr><th>Perfect Acra-compatible applications</th>
-<th>Typical industries</th></tr></thead>
-<tbody><tr><td>Web and mobile apps that store data in a centralised database or object storage</td>
+<table><thead><tr><th>Perfect cases for using Meca</th>
+<th>For this, who</th></tr></thead>
+<tbody><tr><td>You want to read memories of random people</td>
 <td rowspan=3><ul>
-<li>Healthcare, patient apps</li>
-<li>Finance, fintech, neobanking</li>
+<li>Cares about own memory</li>
+<li>Likes to read</li>
 <li>SaaS</li>
-<li>Critical infrastructures</li>
-<li>Apps with > 1000 users</li></ul></td>
-</tr><tr><td>IoT apps that collect telemetry and process data in the cloud</td>
-</tr><tr><td>High-load data processing apps</td>
+</tr><tr><td>You want to leave your step in a history!</td>
+</tr><tr><td>You like to be more intelligent</td>
 </tr></tbody></table>
 
 Acra gives you tools for encrypting each sensitive data record (data field, database cell, json) before storing them in the database / file storage. And then decrypting them in a secure compartmented area (on Acra side). Acra allows to encrypt data as early as possible and operate on encrypted data.
