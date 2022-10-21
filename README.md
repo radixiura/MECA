@@ -88,16 +88,12 @@ If you’d like to contribute your code or provide any other kind of input to Ac
 
 ## Acra feedback
 
-If you are an Acra user, please leave a [short feedback](https://bit.ly/acra-feedback).
+If you are an Meca user, please leave a [short feedback](https://bit.ly/acra-feedback).
 
 ## License
 
-Acra Community Edition is licensed as Apache 2 open-source software.
+MECA is totally free!
 
 ## Contacts
 
-If you want to ask a technical question, feel free to raise an [Issue](https://github.com/cossacklabs/acra/issues) or write to [dev@cossacklabs.com](mailto:dev@cossacklabs.com).
-
-To talk to the business wing of Cossack Labs Limited, drop us an email to [info@cossacklabs.com](mailto:info@cossacklabs.com).
-   
-[![Blog](https://img.shields.io/badge/blog-cossacklabs.com-7a7c98.svg)](https://cossacklabs.com/) [![Twitter CossackLabs](https://img.shields.io/badge/twitter-cossacklabs-fbb03b.svg)](https://twitter.com/cossacklabs) [![DEV CossackLabs](https://img.shields.io/badge/devto-%40cossacklabs-black.svg)](https://dev.to/cossacklabs/) [![Medium CossackLabs](https://img.shields.io/badge/medium-%40cossacklabs-orange.svg)](https://medium.com/@cossacklabs/)
+If you want to ask a technical question, feel free to raise an [Issue](https://github.com/radixiura/Meca-Go/issues) or write to [radix_iuraa@protonmail.com](mailto:radix_iura@protonmail.com).
