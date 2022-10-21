@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="#"><img src="https://i.ibb.co/kDwY0d6/logoza-ru.png" alt="Memory Castle Project" width="400"></a>
+  <a href="#"><img src="https://i.ibb.co/19t6QjB/logoza-ru-1.png" alt="Memory Castle Project" width="400"></a>
 </h3>
 
 -----
