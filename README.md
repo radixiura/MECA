@@ -4,9 +4,9 @@
 A simple application for those who never FORGET
 <br>
 </h3>
-[![Coverage Status](https://coveralls.io/repos/github/radixiura/Meca-Go/badge.svg?branch=main)](https://coveralls.io/github/radixiura/Meca-Go?branch=main)
+
 -----
-  
+ 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
   <a href="#"><img src="https://coveralls.io/repos/github/radixiura/Meca-Go/badge.svg?branch=main" alt='Coverage Status' /></a>
