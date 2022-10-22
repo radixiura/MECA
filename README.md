@@ -4,12 +4,12 @@
 A simple application for those who never FORGET
 <br>
 </h3>
-
+[![Coverage Status](https://coveralls.io/repos/github/radixiura/Meca-Go/badge.svg?branch=main)](https://coveralls.io/github/radixiura/Meca-Go?branch=main)
 -----
   
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/release/cossacklabs/acra.svg" alt="GitHub release"></a>
-  <a href="#"><img src='https://coveralls.io/repos/github/cossacklabs/themis/badge.svg?branch=master' alt='Coverage Status' /></a>
+  <a href="#"><img src="https://coveralls.io/repos/github/radixiura/Meca-Go/badge.svg?branch=main" alt='Coverage Status' /></a>
   <a href="#"><img class="badge" tag="github.com/cossacklabs/acra" src="https://goreportcard.com/badge/github.com/cossacklabs/acra"></a>
   <a href="#"><img src='https://godoc.org/github.com/cossacklabs/acra?status.svg'  alt='godoc'/></a>
 </p>
