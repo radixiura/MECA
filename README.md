@@ -44,32 +44,27 @@ Refer to [Acra-in-depth / Architecture](https://docs.cossacklabs.com/acra/acra-i
 ## Installation and launch
 See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to learn how to [install Acra](https://docs.cossacklabs.com/acra/getting-started/installing/) or to [try Acra without coding](https://docs.cossacklabs.com/acra/getting-started/trying/).
 
-Requirements: Linux or macOS with installed Docker.
+Requirements: Any OS with installed Golang.
 
-| ⚙️ [Run Acra Example Projects](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
+| ⚙️ [Run MECA Example Project](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
 |---|
 
 ## Documentation and tutorials
-The most recent versions of the documentation, tutorials, and demos for Acra are available on the official [Cossack Labs Documentation Server](https://docs.cossacklabs.com/acra/).
+The most recent versions of the documentation, tutorials, and demos for Meca are available on the official site.
 
-To gain an initial understanding of Acra, you might want to:
+To gain an initial understanding of Meca, you might want to:
 
-- [What is Acra](https://docs.cossacklabs.com/acra/what-is-acra/) to get an overview of things.
+- [What is Meca](https://docs.cossacklabs.com/acra/what-is-acra/) to get an overview of things.
 - Acra's [security controls](https://docs.cossacklabs.com/acra/security-controls/) to learn more about encryption, masking, tokenisation, SQL firewall, intrusion detections, etc.
 - Typical [dataflows](https://docs.cossacklabs.com/acra/acra-in-depth/data-flow/) that shows which Acra components you need and what are the Pros and Cons of each combination.
 - Read the notes on Acra's [architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) and [security design](https://docs.cossacklabs.com/acra/acra-in-depth/security-design/) to understand better what you get when you use Acra and what is the threat model that Acra operates in.
-
-You can also check out the speaker slides for the following talks by Cossack Labs engineers:
-- ["Encryption Without Magic, Risk Management Without Pain"](https://speakerdeck.com/vixentael/encryption-without-magic-risk-management-without-pain) by [Anastasiia Voitova](https://github.com/vixentael).
-- ["Data encryption for Ruby web applications"](https://speakerdeck.com/shad/data-encryption-for-ruby-web-applications) by [Dmytro Shapovalov](https://github.com/shadinua).
-- ["Building SQL firewall(AcraCensor): insights from developers"](https://speakerdeck.com/storojs72/building-sql-firewall-insights-from-developers) by [Artem Storozhuk](https://github.com/storojs72).
 
 ## Example projects
 | ⚙️ [Run Acra Example Projects](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
 |---|
 
 ## Contributing to us
-If you’d like to contribute your code or provide any other kind of input to Acra, you’re very welcome. Your starting point for contributing [is here](#).
+If you’d like to contribute your code or provide any other kind of input to Meca, you’re very welcome. Your starting point for contributing [is here](#).
 
 ## License
 MECA is totally free!
