@@ -46,7 +46,7 @@ See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to lea
 
 Requirements: Any OS with installed Golang.
 
-| ⚙️ [Run MECA Example Project](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
+| ⚙️ [Run MECA Example Project](https://github.com/radixiura/MECA) ⚙️ |
 |---|
 
 ## Documentation and tutorials
@@ -54,9 +54,8 @@ The most recent versions of the documentation, tutorials, and demos for Meca are
 
 To gain an initial understanding of Meca, you might want to:
 
-- [What is Meca](https://docs.cossacklabs.com/acra/what-is-acra/) to get an overview of things.
-- Acra's [security controls](https://docs.cossacklabs.com/acra/security-controls/) to learn more about encryption, masking, tokenisation, SQL firewall, intrusion detections, etc.
-- Typical [dataflows](https://docs.cossacklabs.com/acra/acra-in-depth/data-flow/) that shows which Acra components you need and what are the Pros and Cons of each combination.
+- [What is Meca](https://github.com/radixiura/MECA/docs) to get an overview of things.
+- Meca's [security controls](https://docs.cossacklabs.com/acra/security-controls/) to learn more about encryption, masking, tokenisation, SQL firewall, intrusion detections, etc.
 - Read the notes on Acra's [architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) and [security design](https://docs.cossacklabs.com/acra/acra-in-depth/security-design/) to understand better what you get when you use Acra and what is the threat model that Acra operates in.
 
 ## Example projects
