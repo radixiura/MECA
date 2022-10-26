@@ -36,10 +36,7 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory
 </tr></tbody></table>
 
 ## How does MECA work?
-Meca is based on a go programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
-
-
-Refer to [Acra-in-depth / Architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) to learn more about Acra components. Refer to [Acra-in-depth / Data flow](https://docs.cossacklabs.com/acra/acra-in-depth/data-flow/) to see more typical Acra-based dataflows and deployments.
+Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
 
 ## Installation and launch
 See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to learn how to [install Acra](https://docs.cossacklabs.com/acra/getting-started/installing/) or to [try Acra without coding](https://docs.cossacklabs.com/acra/getting-started/trying/).
