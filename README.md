@@ -39,6 +39,12 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory
 Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
 
 ## Installation and launch
+1) On your terminal "git clone https://github.com/radixiura/MECA"
+2) Then "cd MECA"
+3) "chmod +x start.sh"
+4) "./start.sh"
+
+
 See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to learn how to [install Acra](https://docs.cossacklabs.com/acra/getting-started/installing/) or to [try Acra without coding](https://docs.cossacklabs.com/acra/getting-started/trying/).
 
 Requirements: Any OS with installed Golang.
