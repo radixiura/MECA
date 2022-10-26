@@ -20,7 +20,7 @@ A simple application for those who never FORGET
 | ---- | ---- | ---- | ---- |
 
 ## What is MECA Project?
-Meca - lallalala.
+Meca - is a simple program which allows you to read/write memories to a unity storage.
 
 Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory storage for organizations and individual customers. 
 
