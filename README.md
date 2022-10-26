@@ -22,7 +22,7 @@ A simple application for those who never FORGET
 ## What is MECA Project?
 Meca - lallalala.
 
-Meca includes [](https://www.infoq.com/articles/ale-software-architects/) for data fields, multi-layered access control, database leakage prevention, and intrusion detection capabilities in one suite. Acra was specifically designed for distributed apps (web, server-side and mobile) that store data in one or many databases / datastores.
+Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory storage for organizations and individual customers. 
 
 <table><thead><tr><th>Perfect cases for using Meca</th>
 <th>For this, who</th></tr></thead>
@@ -36,12 +36,8 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) for da
 </tr></tbody></table>
 
 ## How does MECA work?
-Acra consists of several services and utilities. Acra services allow you to construct infinitely sophisticated data flows that are perfectly suited to your exact infrastructure. Depending on your architecture and use case, you might need to deploy only basic services or all of them.
+Meca is based on a go programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
 
-* **Security enforcement components**: services where "encryption happens". One of them is required: AcraServer, AcraTranslator, AnyProxy, or client-side SDKs.
-* **Key storage:** datastores where Acra keeps encrypted keys: Redis, table in your database, any KV store. One of them is required.
-* **Master key storage:** KMS, Vault. One of them is strongly recommended.
-* **Additional services and utils:** key management utils, data migration scripts, transport security service, policy management tools. Any of them are optional.
 
 Refer to [Acra-in-depth / Architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) to learn more about Acra components. Refer to [Acra-in-depth / Data flow](https://docs.cossacklabs.com/acra/acra-in-depth/data-flow/) to see more typical Acra-based dataflows and deployments.
 
