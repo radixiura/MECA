@@ -5,11 +5,14 @@ import (
 	"fmt"
 	"time"
 	"os"
+	"database/sql"
 
 	"meca/cmd/internal/reg"
 	"meca/cmd/internal/log"
 
 	"meca/cmd/internal/menu"
+
+	_ "github.com/lib/pq"
 )
 
 
@@ -18,9 +21,33 @@ var pln = fmt.Println
 var fs = fmt.Fscan
 
 
+type product struct{
+    id int
+    model string
+    company string
+    price int
+}
+
+
+
+
 func main() {
+		connStr := "user=postgres password=cordia dbname=productdb sslmode=disable"
+		    db, err := sql.Open("postgres", connStr)
+		    if err != nil {
+		        panic(err)
+		    } 
+		    defer db.Close()
+		     
+		    result, err := db.Exec("insert into Products (model, company, price) values ('iPhone X', $1, $2)", 
+		        "Apple", 72000)
+		    if err != nil{
+		        panic(err)
+		    }
+		    fmt.Println(result.LastInsertId())  // не поддерживается
+		    fmt.Println(result.RowsAffected())  // количество добавленных строк
    Hello()
-	 log.Login()
+	log.Login()
    menu.Fmenu()
 }
 
