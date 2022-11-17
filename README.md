@@ -39,6 +39,7 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory
 Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
 
 ## Installation and launch
+0) sudo apt install go 
 1) On your terminal "git clone https://github.com/radixiura/MECA"
 2) cd MECA
 3) chmod +x start.sh
