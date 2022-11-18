@@ -62,10 +62,6 @@ To gain an initial understanding of Meca, you might want to:
 - Meca's [security controls](https://docs.cossacklabs.com/acra/security-controls/) to learn more about encryption, masking, tokenisation, SQL firewall, intrusion detections, etc.
 - Read the notes on Acra's [architecture](https://docs.cossacklabs.com/acra/acra-in-depth/architecture/) and [security design](https://docs.cossacklabs.com/acra/acra-in-depth/security-design/) to understand better what you get when you use Acra and what is the threat model that Acra operates in.
 
-## Example projects
-| ⚙️ [Run Acra Example Projects](https://github.com/cossacklabs/acra-engineering-demo) ⚙️ |
-|---|
-
 ## Contributing to us
 If you’d like to contribute your code or provide any other kind of input to Meca, you’re very welcome. Your starting point for contributing [is here](#).
 
