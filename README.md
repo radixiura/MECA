@@ -54,8 +54,6 @@ Requirements: Any OS with installed Golang.
 ## Contributing to us
 If you’d like to contribute your code or provide any other kind of input to Meca, you’re very welcome. Your starting point for contributing [is here](#).
 
-## License
-MECA is totally free!
 
 ## Contacts
 If you want to ask a technical question, feel free to raise an [Issue](https://github.com/radixiura/Meca-Go/issues) or write to [radix_iura@protonmail.com](mailto:radix_iura@protonmail.com).
