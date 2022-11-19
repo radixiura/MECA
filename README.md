@@ -36,7 +36,8 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory
 </tr></tbody></table>
 
 ## How does MECA work?
-Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
+Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even!
+The program receives the data you entered, analyzes it and saves it. You can also read another person's memory or get completely random information.
 
 ## Installation and launch
 0) sudo apt install go 
