@@ -39,12 +39,12 @@ Meca includes [](https://www.infoq.com/articles/ale-software-architects/) memory
 Meca is based on a GO programming language, so it uses a concurrency and parallel paradigm and allows u to work faster than even! 
 
 ## Installation and launch
-sudo apt install postgres
-service postgres start
-sudo passwd postgres (sir1)
-su -l postgres
-postgres$: psql
-psql$: CREATE USER dreamer WITH password ‘carbon2’;
+0) sudo apt install postgres
+1) service postgres start
+2) sudo passwd postgres (sir1)
+3) su -l postgres
+4) postgres$: psql
+5) psql$: CREATE USER dreamer WITH password ‘carbon2’;
 
 
 
