@@ -46,8 +46,6 @@ Meca is based on a GO programming language, so it uses a concurrency and paralle
 4) ./start.sh
 
 
-See [Getting started](https://docs.cossacklabs.com/acra/getting-started/) to learn how to [install Acra](https://docs.cossacklabs.com/acra/getting-started/installing/) or to [try Acra without coding](https://docs.cossacklabs.com/acra/getting-started/trying/).
-
 Requirements: Any OS with installed Golang.
 
 | ⚙️ [Run MECA Example Project](https://github.com/radixiura/MECA) ⚙️ |
