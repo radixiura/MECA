@@ -52,6 +52,8 @@ Meca is based on a GO programming language, so it uses a concurrency and paralle
    company TEXT,
    price TEXT);
 9) GRANT ALL PRIVILEGES ON DATABASE mecadb to dreamer;
+10) \c mecadb
+11) GRANT ALL ON goods TO dreamer;
 
 |---|
 
