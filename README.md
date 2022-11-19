@@ -46,7 +46,7 @@ Meca is based on a GO programming language, so it uses a concurrency and paralle
 4) postgres$: psql
 5) psql$: CREATE USER dreamer WITH password ‘carbon2’;
 
-
+|---|
 
 0) sudo apt install go 
 1) On your terminal "git clone https://github.com/radixiura/MECA"
