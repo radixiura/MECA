@@ -46,6 +46,7 @@ Meca is based on a GO programming language, so it uses a concurrency and paralle
 4) postgres$: psql
 5) psql$: CREATE USER dreamer WITH password ‘carbon2’;
 6) psql$: CREATE DATABASE mecadb;
+7) psql$: CREATE TABLE Products;
 
 |---|
 
