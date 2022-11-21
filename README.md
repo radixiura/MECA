@@ -46,14 +46,15 @@ Meca is based on a GO programming language, so it uses a concurrency and paralle
 4) postgres$: psql
 5) psql$: CREATE USER dreamer WITH password ‘carbon2’;
 6) psql$: CREATE DATABASE mecadb;
-7) psql$: CREATE TABLE Products;
-8) CREATE TABLE goods(
-   model TEXT,
-   company TEXT,
-   price TEXT);
-9) GRANT ALL PRIVILEGES ON DATABASE mecadb to dreamer;
-10) \c mecadb
-11) GRANT ALL ON goods TO dreamer;
+7) psql$: CREATE TABLE users(
+   id SERIAL PRIMARY KEY,
+   login CHARACTER VARYING(30),
+   password CHARACTER VARYING(30),
+   rank INTEGER
+   );
+9) psql$: GRANT ALL PRIVILEGES ON DATABASE mecadb to dreamer;
+10) psql$: \c mecadb
+11) mecadb$: GRANT ALL ON users TO dreamer;
 
 |---|
 
